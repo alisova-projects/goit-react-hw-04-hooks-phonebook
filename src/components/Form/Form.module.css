@@ -1,0 +1,54 @@
+.container {
+  width: 600px;
+  padding: 20px;
+
+  margin: 20px auto 20px auto;
+  border: solid rgb(75, 67, 46) 2px;
+  border-radius: 3px;
+}
+
+.form {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 20px;
+  color: rgb(61, 30, 30);
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+
+  font-size: 15px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: rgb(90, 4, 4);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  opacity: 0.8;
+  transition: opacity 250ms cubic-bezier(0.165, 0.84, 0.44, 1);
+
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  opacity: 1;
+}
