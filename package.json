@@ -2,7 +2,7 @@
   "name": "react-21-22",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alisova-projects.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://ShepelVitalii2.github.io/goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alisova-projects/goit-react-hw-03-phonebook.git"
+    "url": "git+https://github.com/ShepelVitalii2/goit-react-hw-04-hooks-phonebook.git"
   },
   "eslintConfig": {
     "extends": [

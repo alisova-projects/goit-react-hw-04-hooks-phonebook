@@ -1,6 +1,6 @@
 // import react from 'react';
-import Section from './components/Section';
-import Phonebook from './components/Phonebook';
+import Section from './components/Phonebook/Section';
+import Phonebook from './components/Phonebook/Phonebook';
 
 export default function App() {
   return (
